@@ -6,6 +6,7 @@
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C9023E5F-8BF9-4F10-9F3A-08DEA19FB1E2::net5.0::TestTask.Tests.ReverseTests.Reverse_Works&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::C9023E5F-8BF9-4F10-9F3A-08DEA19FB1E2::net5.0::TestTask.Tests.GeneratorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::C9023E5F-8BF9-4F10-9F3A-08DEA19FB1E2::net5.0::TestTask.Tests.ReverseTests.OptimizedReverse_Works&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>
